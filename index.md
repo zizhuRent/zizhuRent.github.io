@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 写在入门之前
+首先特别感谢组内同事提供的初稿，以及租房群第一代成员提供的宝贵信息，希望这些信息能帮助到大家。
 
-You can use the [editor on GitHub](https://github.com/zizhuRent/zizhuRent.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+一些说明：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这篇文章主要针对首次在上海闵行紫竹地区租房的同学，如果你已经是老司机，后续内容可能帮助有限。
 
-### Markdown
+文章将力求描述准确，但我们信息收集能力有限，内容可能过时，最终还是应以官方政策和实际情况为准。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+房租年年上涨，情况月月不同，这些信息最后更新于2021.6。
 
-```markdown
-Syntax highlighted code block
+## 区域与房源
 
-# Header 1
-## Header 2
-### Header 3
+## 租房的方案
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zizhuRent/zizhuRent.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 发现的问题
