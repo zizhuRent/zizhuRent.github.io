@@ -1,2 +1,5 @@
 title: 大紫竹地区租房入门
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+showdownloads: false
