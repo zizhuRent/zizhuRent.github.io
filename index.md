@@ -1,3 +1,6 @@
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站访问量<span id="busuanzi_value_site_pv"></span>次</span>
+
 ## 写在入门之前
 首先特别感谢组内同事提供的初稿，以及租房群第一代成员提供的宝贵信息，希望这些信息能帮助到大家。
 
